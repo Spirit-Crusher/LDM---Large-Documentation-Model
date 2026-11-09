@@ -2,8 +2,6 @@
 
 Local LLM-based documentation generator.
 
-
-
 ## Objective
 
 Develop a lightweight, private, locally hosted AI application that generates structured technical documentation and operating procedures from heterogeneous source information.
@@ -36,7 +34,7 @@ Develop a lightweight, private, locally hosted AI application that generates str
 
 - HTML wiki interface planned for a future release.
 
-## 
+ 
 
 ## Quality requirements
 
@@ -53,8 +51,8 @@ Develop a lightweight, private, locally hosted AI application that generates str
 - Human review and approval.
 
 - Automated regression testing.
-
-
+  
+  
 
 ## Operating requirements
 
@@ -67,3 +65,5 @@ Develop a lightweight, private, locally hosted AI application that generates str
 - On-demand generation.
 
 - Modular and extensible architecture.
+
+- Docker compatibility
