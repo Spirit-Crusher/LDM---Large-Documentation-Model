@@ -5,7 +5,7 @@
 ###### Estimated effort: 7–9 hours
 
 ### Tasks
-- [ ] Install Python, Ollama and the initial model.
+- [X] Install Python, llama.cpp and the initial model.
 - [ ] Create the project structure.
 - [ ] Establish project and source-file management.
 - [ ] Implement TXT, JSON and YAML readers.
