@@ -23,8 +23,6 @@
 ### Tasks
 - [ ] Add CSV and Excel readers.
 - [ ] Extend code parsing and comment extraction.
-- [ ] Add OCR support for scanned PDFs.
-- [ ] Implement Mermaid and PlantUML source handling.
 - [ ] Add basic Draw.io XML extraction.
 - [ ] Implement image asset management.
 - [ ] Preserve page numbers, file locations and other metadata.
@@ -39,9 +37,9 @@ Note: Image interpretation beyond OCR and basic diagram-source extraction remain
 ###### Estimated effort: 8–10 hours
 
 ### Tasks
-- [ ] Integrate Ollama with Qwen3.
+- [ ] Integrate Qwen3.
 - [ ] Implement the structured document model.
-- [ ] Implement JSON/YAML document definitions.
+- [ ] Implement JSON document definitions.
 - [ ] Create technical documentation templates.
 - [ ] Create operating procedure templates.
 - [ ] Implement section-by-section generation.
