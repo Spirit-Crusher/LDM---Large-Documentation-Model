@@ -12,7 +12,7 @@ Develop a lightweight, private, locally hosted AI application that generates str
 
 - Commented source code and docstrings.
 
-- JSON and YAML configuration/document definitions.
+- JSON configuration/document definitions.
 
 - PDF documents.
 
@@ -50,7 +50,7 @@ Develop a lightweight, private, locally hosted AI application that generates str
 
 - Human review and approval.
 
-- Automated regression testing.
+- Automated testing.
   
   
 
